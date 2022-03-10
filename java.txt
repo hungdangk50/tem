@@ -1,0 +1,16 @@
+Các bước đã làm với các project Java
+ + Cài đặt các plugin và Tools cần thiết cho việc đóng gói các project java trên jenkin 
+   > Cần hỗ trợ cài đặt tools và plugin trên jenkin khi triển khai lên môi trường vpbank
+     Hỗ trợ cài các tools,và Mở kết nối cần thiết sau: 
+	  - java 8u311 :Link https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+	  -	ant 1.10.12 :link: https://ant.apache.org/
+	  - maven 3.8.4 :mở kết nối đến repo https://repo.maven.apache.org/maven2/ hoặc repo local của ngân hàng
+ + Restruct Project
+ + Tạo Container base bao gồm OS + JDK + Weblogic 
+    > Cần hỗ trợ cung cấp OS Redhat image base chuẩn mà ngân hàng sử dụng
+ + Tạo Docker Image cho app (bao gồm Container base và deploy gói War lên Weblogic server)
+ + Tạo 1 Pipeline cơ bản thực hiện các bước sau PullCode > Package > Build Image > Run Image 
+	> Cần trao đổi về kiến trúc các thành phần khi triển khai ửu dụng openShift , và tư vấn trong việc tối ưu và bảo mật pipeline script
+	
+ 	  
+
