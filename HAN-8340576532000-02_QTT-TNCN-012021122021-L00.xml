@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HSoKhaiThue>
+        <TTinChung>
+            <TTinDVu>
+                <maDVu>ICANHAN</maDVu>
+                <tenDVu>ICANHAN</tenDVu>
+                <pbanDVu>1.0</pbanDVu>
+                <ttinNhaCCapDVu>ICANHAN-TCT</ttinNhaCCapDVu>
+            </TTinDVu>
+            <TTinTKhaiThue>
+                <TKhaiThue>
+                    <maTKhai>952</maTKhai>
+                    <tenTKhai>Tờ khai quyết toán thuế thu nhập cá nhân 02/QTT-TNCN (TT80/2021)</tenTKhai>
+                    <moTaBMau>Áp dụng cho cá nhân cư trú có thu nhập từ tiền lương, tiền công</moTaBMau>
+                    <pbanTKhaiXML>2.5.1</pbanTKhaiXML>
+                    <loaiTKhai>C</loaiTKhai>
+                    <soLan>0</soLan>
+                    <KyKKhaiThue>
+                        <kieuKy>Y</kieuKy>
+                        <kyKKhai>2021</kyKKhai>
+                        <kyKKhaiTuNgay></kyKKhaiTuNgay>
+                        <kyKKhaiDenNgay></kyKKhaiDenNgay>
+                        <kyKKhaiTuThang>01/2021</kyKKhaiTuThang>
+                        <kyKKhaiDenThang>12/2021</kyKKhaiDenThang>
+                    </KyKKhaiThue>
+                    <maCQTNoiNop>82500</maCQTNoiNop>
+                    <tenCQTNoiNop>Cục Thuế Doanh nghiệp lớn</tenCQTNoiNop>
+                    <ngayLapTKhai>01/04/2022</ngayLapTKhai>
+                    <GiaHan>
+                        <maLyDoGiaHan></maLyDoGiaHan>
+                        <lyDoGiaHan></lyDoGiaHan>
+                    </GiaHan>
+                    <nguoiKy></nguoiKy>
+                    <ngayKy>2022-04-01</ngayKy>
+                    <nganhNgheKD></nganhNgheKD>
+                </TKhaiThue>
+                <NNT>
+                    <mst>8340576532</mst>
+                    <tenNNT>ĐặNG NGọC HùNG</tenNNT>
+                    <dchiNNT>Xóm 6, Xã Đông Xuân</dchiNNT>
+                    <phuongXa></phuongXa>
+                    <maHuyenNNT>11509</maHuyenNNT>
+                    <tenHuyenNNT>Huyện Đông Hưng</tenHuyenNNT>
+                    <maTinhNNT>115</maTinhNNT>
+                    <tenTinhNNT>Thái Bình</tenTinhNNT>
+                    <dthoaiNNT>0965952005</dthoaiNNT>
+                    <faxNNT></faxNNT>
+                    <emailNNT>dangngochungk50@gmail.com</emailNNT>
+                </NNT>
+            </TTinTKhaiThue>
+        </TTinChung>
+        <CTieuTKhaiChinh>
+            <Header>
+                <qTTTheoHSGiamThue>false</qTTTheoHSGiamThue>
+                <ma_THQuyetToan>09</ma_THQuyetToan>
+                <ten_THQuyetToan>Quyết toán theo năm dương lịch</ten_THQuyetToan>
+                <hanNop xsi:nil="true"/>
+                <MST>0100233583</MST>
+                <tenTCCT>NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN VIỆT NAM THỊNH VƯỢNG</tenTCCT>
+                <dchiTCCT>Số 89 Láng Hạ, Phường Láng Hạ</dchiTCCT>
+                <maHuyenTCCT>006HH</maHuyenTCCT>
+                <tenHuyenTCCT>Quận Đống đa</tenHuyenTCCT>
+                <maTinhTCCT>01TTT</maTinhTCCT>
+                <tenTinhTCCT>Hà Nội</tenTinhTCCT>
+            </Header>
+            <ct20>373123425</ct20>
+            <ct21>373123425</ct21>
+            <ct22>0</ct22>
+            <ct23>0</ct23>
+            <ct24>1</ct24>
+            <ct25>191488500</ct25>
+            <ct26>132000000</ct26>
+            <ct27>52800000</ct27>
+            <ct28>0</ct28>
+            <ct29>6688500</ct29>
+            <ct30>0</ct30>
+            <ct31>181634925</ct31>
+            <ct32>18245239</ct32>
+            <ct33>11430128</ct33>
+            <ct34>11430128</ct34>
+            <ct35>0</ct35>
+            <ct36>0</ct36>
+            <ct37>0</ct37>
+            <ct38>0</ct38>
+            <ct39>0</ct39>
+            <ct40>0</ct40>
+            <ct41>0</ct41>
+            <ct42>6815111</ct42>
+            <ct43>0</ct43>
+            <ct44>0</ct44>
+            <ct45>0</ct45>
+            <ct46>0</ct46>
+            <ct47>0</ct47>
+            <ct48>0</ct48>
+            <TTinHoanThue>
+                <soTienHoanTra>0</soTienHoanTra>
+                <HinhThucHoanTra>
+                    <chuyenKhoan>false</chuyenKhoan>
+                    <tenChuTaiKhoan xsi:nil="true"/>
+                    <soTaiKhoan xsi:nil="true"/>
+                    <tenNganHang xsi:nil="true"/>
+                    <tienMat>false</tienMat>
+                    <tenNguoiNhan xsi:nil="true"/>
+                    <maLoaiGiayTo xsi:nil="true"/>
+                    <tenLoaiGiayTo></tenLoaiGiayTo>
+                    <soGiayTo xsi:nil="true"/>
+                    <ngayCap xsi:nil="true"/>
+                    <noiCap xsi:nil="true"/>
+                    <noNhanTien xsi:nil="true"/>
+                </HinhThucHoanTra>
+            </TTinHoanThue>
+            <TTinBuTru>
+                <TTinKhoanNoKhoanThuPS id="1">
+                    <ct02 xsi:nil="true"/>
+                    <ct03 xsi:nil="true"/>
+                    <ct04 xsi:nil="true"/>
+                    <ct05 xsi:nil="true"/>
+                    <ct06_ma xsi:nil="true"/>
+                    <ct06_ten xsi:nil="true"/>
+                    <ct07_ma xsi:nil="true"/>
+                    <ct07_ten xsi:nil="true"/>
+                    <ct08_ma xsi:nil="true"/>
+                    <ct08_ten xsi:nil="true"/>
+                    <ct09_ma xsi:nil="true"/>
+                    <ct09_ten xsi:nil="true"/>
+                    <ct10 xsi:nil="true"/>
+                    <ct11 xsi:nil="true"/>
+                    <ct12 xsi:nil="true"/>
+                    <ct13 xsi:nil="true"/>
+                </TTinKhoanNoKhoanThuPS>
+            </TTinBuTru>
+        </CTieuTKhaiChinh>
+        <PLuc>
+            <PLuc_02_1_BK_QTT_TNCN>
+                <Header>
+                    <ct06 xsi:nil="true"/>
+                    <ct07 xsi:nil="true"/>
+                    <ct08 xsi:nil="true"/>
+                </Header>
+                <CTiet id="1">
+                    <ct10>Đặng Ngọc Hưng</ct10>
+                    <ct11>8663769323</ct11>
+                    <ct12_ma>5000</ct12_ma>
+                    <ct12_ten>GKS</ct12_ten>
+                    <ct13>034220007929</ct13>
+                    <ct14>2020-07-12</ct14>
+                    <ct15_ma>01</ct15_ma>
+                    <ct15_ten>Con</ct15_ten>
+                    <ct16>01/2021</ct16>
+                    <ct17>12/2021</ct17>
+                </CTiet>
+            </PLuc_02_1_BK_QTT_TNCN>
+        </PLuc>
+    </HSoKhaiThue>
+</HSoThueDTu>
